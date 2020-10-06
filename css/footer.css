@@ -1,0 +1,16 @@
+/* Footer CSS */
+#ft { 
+	grid-area: bottom;
+	border-top: 1px solid #FCB040;
+}
+
+#footerAddress {
+	font-size: 15px;
+	font-style: normal;
+	text-decoration: none;
+}
+
+#footerAddress a, #footerAddress a:hover, #footerAddress a:focus {
+	color: #FCB040;
+	text-decoration: none;
+}

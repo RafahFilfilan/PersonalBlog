@@ -1,0 +1,23 @@
+menu {
+	display: inline-block;
+	margin: 0;
+	padding: 0;
+}
+
+menuitem {
+	padding: 0 20px;
+	font-size: 16px;
+	cursor: pointer;
+}
+
+menuitem:hover {
+	color: #FCB040;
+}
+
+/* Menu CSS */
+#menu {
+	grid-area: menu;
+	vertical-align: top;
+	border-top: 1px solid #FCB040;
+	border-bottom: 1px solid #FCB040;
+}
